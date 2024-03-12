@@ -1,0 +1,1 @@
+["purchases_frequency", "purchases_installments_frequency"]
